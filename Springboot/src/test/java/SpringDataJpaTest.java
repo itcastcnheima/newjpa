@@ -21,4 +21,7 @@ public class SpringDataJpaTest {
         customer.setCustIndustry("IT教育");
         customerDao.save(customer) ;
     }
+    public void test01(){
+        System.out.println(66666);
+    }
 }
