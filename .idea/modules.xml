@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Many-Many/Many-Many.iml" filepath="$PROJECT_DIR$/Many-Many/Many-Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/Springboot.iml" filepath="$PROJECT_DIR$/Springboot/Springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jap/jap.iml" filepath="$PROJECT_DIR$/jap/jap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa02/jpa02.iml" filepath="$PROJECT_DIR$/jpa02/jpa02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpaonemany/jpaonemany.iml" filepath="$PROJECT_DIR$/jpaonemany/jpaonemany.iml" />
+    </modules>
+  </component>
+</project>
